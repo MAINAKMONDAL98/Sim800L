@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,9.1.0*%
+%TF.CreationDate,2019-01-28T13:00:55Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Mainak Mondal <mainak19981998@gmail.com>*%
+%TJ.B_ID,adafruit-fona-800-gsm-breakoutnew*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+%TJ.B_Size_X,43.612000*%
+%TJ.B_Size_Y,28.184000*%
+M02*
